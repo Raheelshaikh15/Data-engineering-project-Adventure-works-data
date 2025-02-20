@@ -1,2 +1,1 @@
-# data
-data repo
+# Azure data engineering end-to-end project.
